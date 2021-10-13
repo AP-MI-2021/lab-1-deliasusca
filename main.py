@@ -42,8 +42,10 @@ def main():
   print(is_prime(7))
   print(get_product([1,2,3]))
   print(get_cmmdc_v1(10,9))
+  print("Am implementat interfata")
 
 if __name__ == '__main__':
+  print('hello')
   main()
 
 
